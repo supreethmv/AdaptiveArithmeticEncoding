@@ -1,0 +1,270 @@
+n: 15, s: 256, r: 0.300000, M: 4096
+sourceword[0]=0
+k: 0, [0, 4096)
+new [L,H) = [0,16)
+sourceword[1]=255
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 4096)
+new [L,H) = [4080,4096)
+sourceword[2]=255
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+k: 0, [0, 4096)
+new [L,H) = [4064,4096)
+sourceword[3]=0
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+k: 0, [0, 4096)
+new [L,H) = [0,31)
+sourceword[4]=0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 3968)
+new [L,H) = [0,45)
+sourceword[5]=0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 2880)
+new [L,H) = [0,44)
+sourceword[6]=255
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 2816)
+new [L,H) = [2783,2816)
+sourceword[7]=0
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+k: 0, [1984, 4096)
+new [L,H) = [1984,2024)
+sourceword[8]=0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+k: 0, [0, 2560)
+new [L,H) = [0,58)
+sourceword[9]=0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 3712)
+new [L,H) = [0,98)
+sourceword[10]=0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 3136)
+new [L,H) = [0,94)
+sourceword[11]=0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 3008)
+new [L,H) = [0,101)
+sourceword[12]=255
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [0, 3232)
+new [L,H) = [3183,3232)
+sourceword[13]=0
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+underflow: x -> 2*x - 2048
+underflow: x -> 2*x - 2048
+k: 2, [960, 4096)
+new [L,H) = [960,1076)
+sourceword[14]=255
+rescaling: x-> 2*x:written bits: 011
+underflow: x -> 2*x - 2048
+underflow: x -> 2*x - 2048
+underflow: x -> 2*x - 2048
+underflow: x -> 2*x - 2048
+k: 4, [0, 3712)
+new [L,H) = [3643,3712)
+sourceword[15]=97
+rescaling: x-> 2*x - 4096:written bits: 10000
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x - 4096:written bits: 1
+rescaling: x-> 2*x:written bits: 0
+rescaling: x-> 2*x:written bits: 0
+k: 0, [1888, 4096)
+last interval - written bits:10
+
+v: 0, j: 2048, i: 0, b: 0
+v: 0, j: 1024, i: 1, b: 0
+v: 0, j: 512, i: 2, b: 0
+v: 0, j: 256, i: 3, b: 0
+v: 0, j: 128, i: 4, b: 0
+v: 0, j: 64, i: 5, b: 0
+v: 0, j: 32, i: 6, b: 0
+v: 0, j: 16, i: 7, b: 0
+v: 8, j: 8, i: 8, b: 1
+v: 12, j: 4, i: 9, b: 1
+v: 14, j: 2, i: 10, b: 1
+v: 15, j: 1, i: 11, b: 1
+initial v: 15 (12 first bits from coded file)
+v: 15, [0, 4096)
+[c_i,c_i-1) = [0 2) w: 0 symbol[0]: 0, new [L,H)=[0,16)
+rescaling: x-> 2*x, [0, 32), b 1, v 31
+rescaling: x-> 2*x, [0, 64), b 1, v 63
+rescaling: x-> 2*x, [0, 128), b 1, v 127
+rescaling: x-> 2*x, [0, 256), b 1, v 255
+rescaling: x-> 2*x, [0, 512), b 1, v 511
+rescaling: x-> 2*x, [0, 1024), b 1, v 1023
+rescaling: x-> 2*x, [0, 2048), b 1, v 2047
+rescaling: x-> 2*x, [0, 4096), b 1, v 4095
+v: 4095, [0, 4096)
+[c_i,c_i-1) = [256 258) w: 256 symbol[1]: 255, new [L,H)=[4080,4096)
+rescaling: x-> 2*x - 4096, [4064,4096), b 1, v 4095
+rescaling: x-> 2*x - 4096, [4032,4096), b 1, v 4095
+rescaling: x-> 2*x - 4096, [3968,4096), b 1, v 4095
+rescaling: x-> 2*x - 4096, [3840,4096), b 0, v 4094
+rescaling: x-> 2*x - 4096, [3584,4096), b 0, v 4092
+rescaling: x-> 2*x - 4096, [3072,4096), b 0, v 4088
+rescaling: x-> 2*x - 4096, [2048,4096), b 0, v 4080
+rescaling: x-> 2*x - 4096, [0,4096), b 0, v 4064
+v: 4064, [0, 4096)
+[c_i,c_i-1) = [256 259) w: 256 symbol[2]: 255, new [L,H)=[4064,4096)
+rescaling: x-> 2*x - 4096, [4032,4096), b 0, v 4032
+rescaling: x-> 2*x - 4096, [3968,4096), b 0, v 3968
+rescaling: x-> 2*x - 4096, [3840,4096), b 0, v 3840
+rescaling: x-> 2*x - 4096, [3584,4096), b 0, v 3584
+rescaling: x-> 2*x - 4096, [3072,4096), b 0, v 3072
+rescaling: x-> 2*x - 4096, [2048,4096), b 0, v 2048
+rescaling: x-> 2*x - 4096, [0,4096), b 0, v 0
+v: 0, [0, 4096)
+[c_i,c_i-1) = [0 3) w: 0 symbol[3]: 0, new [L,H)=[0,31)
+rescaling: x-> 2*x, [0, 62), b 0, v 0
+rescaling: x-> 2*x, [0, 124), b 0, v 0
+rescaling: x-> 2*x, [0, 248), b 0, v 0
+rescaling: x-> 2*x, [0, 496), b 0, v 0
+rescaling: x-> 2*x, [0, 992), b 0, v 0
+rescaling: x-> 2*x, [0, 1984), b 0, v 0
+rescaling: x-> 2*x, [0, 3968), b 0, v 0
+v: 0, [0, 3968)
+[c_i,c_i-1) = [0 4) w: 0 symbol[4]: 0, new [L,H)=[0,45)
+rescaling: x-> 2*x, [0, 90), b 1, v 1
+rescaling: x-> 2*x, [0, 180), b 0, v 2
+rescaling: x-> 2*x, [0, 360), b 1, v 5
+rescaling: x-> 2*x, [0, 720), b 0, v 10
+rescaling: x-> 2*x, [0, 1440), b 1, v 21
+rescaling: x-> 2*x, [0, 2880), b 1, v 43
+v: 43, [0, 2880)
+[c_i,c_i-1) = [0 5) w: 3 symbol[5]: 0, new [L,H)=[0,44)
+rescaling: x-> 2*x, [0, 88), b 0, v 86
+rescaling: x-> 2*x, [0, 176), b 1, v 173
+rescaling: x-> 2*x, [0, 352), b 1, v 347
+rescaling: x-> 2*x, [0, 704), b 1, v 695
+rescaling: x-> 2*x, [0, 1408), b 1, v 1391
+rescaling: x-> 2*x, [0, 2816), b 1, v 2783
+v: 2783, [0, 2816)
+[c_i,c_i-1) = [259 263) w: 259 symbol[6]: 255, new [L,H)=[2783,2816)
+rescaling: x-> 2*x - 4096, [1470,1536), b 0, v 1470
+rescaling: x-> 2*x, [2940, 3072), b 0, v 2940
+rescaling: x-> 2*x - 4096, [1784,2048), b 0, v 1784
+rescaling: x-> 2*x, [3568, 4096), b 0, v 3568
+rescaling: x-> 2*x - 4096, [3040,4096), b 0, v 3040
+rescaling: x-> 2*x - 4096, [1984,4096), b 0, v 1984
+v: 1984, [1984, 4096)
+[c_i,c_i-1) = [0 6) w: 0 symbol[7]: 0, new [L,H)=[1984,2024)
+rescaling: x-> 2*x, [3968, 4048), b 0, v 3968
+rescaling: x-> 2*x - 4096, [3840,4000), b 0, v 3840
+rescaling: x-> 2*x - 4096, [3584,3904), b 0, v 3584
+rescaling: x-> 2*x - 4096, [3072,3712), b 0, v 3072
+rescaling: x-> 2*x - 4096, [2048,3328), b 0, v 2048
+rescaling: x-> 2*x - 4096, [0,2560), b 0, v 0
+v: 0, [0, 2560)
+[c_i,c_i-1) = [0 7) w: 0 symbol[8]: 0, new [L,H)=[0,58)
+rescaling: x-> 2*x, [0, 116), b 0, v 0
+rescaling: x-> 2*x, [0, 232), b 0, v 0
+rescaling: x-> 2*x, [0, 464), b 0, v 0
+rescaling: x-> 2*x, [0, 928), b 0, v 0
+rescaling: x-> 2*x, [0, 1856), b 0, v 0
+rescaling: x-> 2*x, [0, 3712), b 0, v 0
+v: 0, [0, 3712)
+[c_i,c_i-1) = [0 8) w: 0 symbol[9]: 0, new [L,H)=[0,98)
+rescaling: x-> 2*x, [0, 196), b 0, v 0
+rescaling: x-> 2*x, [0, 392), b 0, v 0
+rescaling: x-> 2*x, [0, 784), b 0, v 0
+rescaling: x-> 2*x, [0, 1568), b 1, v 1
+rescaling: x-> 2*x, [0, 3136), b 1, v 3
+v: 3, [0, 3136)
+[c_i,c_i-1) = [0 9) w: 0 symbol[10]: 0, new [L,H)=[0,94)
+rescaling: x-> 2*x, [0, 188), b 0, v 6
+rescaling: x-> 2*x, [0, 376), b 0, v 12
+rescaling: x-> 2*x, [0, 752), b 0, v 24
+rescaling: x-> 2*x, [0, 1504), b 1, v 49
+rescaling: x-> 2*x, [0, 3008), b 1, v 99
+v: 99, [0, 3008)
+[c_i,c_i-1) = [0 10) w: 8 symbol[11]: 0, new [L,H)=[0,101)
+rescaling: x-> 2*x, [0, 202), b 1, v 199
+rescaling: x-> 2*x, [0, 404), b 0, v 398
+rescaling: x-> 2*x, [0, 808), b 0, v 796
+rescaling: x-> 2*x, [0, 1616), b 0, v 1592
+rescaling: x-> 2*x, [0, 3232), b 0, v 3184
+v: 3184, [0, 3232)
+[c_i,c_i-1) = [264 269) w: 264 symbol[12]: 255, new [L,H)=[3183,3232)
+rescaling: x-> 2*x - 4096, [2270,2368), b 1, v 2273
+rescaling: x-> 2*x - 4096, [444,640), b 1, v 451
+rescaling: x-> 2*x, [888, 1280), b 0, v 902
+rescaling: x-> 2*x, [1776, 2560), b 0, v 1804
+underflow: x -> 2*x - 2048, [1504,3072), b 1 v 1561
+underflow: x -> 2*x - 2048, [960,4096), b 0 v 1074
+v: 1074, [960, 4096)
+[c_i,c_i-1) = [0 11) w: 9 symbol[13]: 0, new [L,H)=[960,1076)
+rescaling: x-> 2*x, [1920, 2152), b -1, v 2148
+underflow: x -> 2*x - 2048, [1792,2256), b -1 v 2248
+underflow: x -> 2*x - 2048, [1536,2464), b -1 v 2448
+underflow: x -> 2*x - 2048, [1024,2880), b -1 v 2848
+underflow: x -> 2*x - 2048, [0,3712), b -1 v 3648
+v: 3648, [0, 3712)
+[c_i,c_i-1) = [265 271) w: 265 symbol[14]: 255, new [L,H)=[3643,3712)
